@@ -2,7 +2,7 @@
 
 Ce projet est une application web basée sur l'architecture **RAG (Retrieval-Augmented Generation)** permettant la recherche sémantique intelligente dans des supports de cours au format PDF.
 
-##  Fonctionnalités
+#  Fonctionnalités
 -  **Ingestion dynamique :** Ajout de cours au format PDF directement depuis l'interface web.
 -  **Chunking & Vectorisation :** Extraction automatique du texte et génération d'embeddings vectoriels avec `all-MiniLM-L6-v2`.
 -  **Recherche Vectorielle k-NN :** Indexation et recherche sémantique ultra-rapide hébergée sur **MongoDB Atlas**.
